@@ -6,3 +6,7 @@ https://github.com/weikevinhc/k-seek
 
 ### slurm script that used k-seek script for analyzing FASTQ
 KSEEK.slurm
+
+### commands to calculate average coverage of samples. This will be used for normalizing k-mer counts
+genomecov.sh
+
