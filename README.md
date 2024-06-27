@@ -10,3 +10,5 @@ KSEEK.slurm
 ### commands to calculate average coverage of samples. This will be used for normalizing k-mer counts
 genomecov.sh
 
+### commands for conducting trinity analysis
+trinity_commands.sh
